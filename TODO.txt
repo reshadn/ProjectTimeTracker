@@ -1,0 +1,28 @@
+IDEAS
+
+
+1. store date items as JSON
+
+2. user JSONstringify and JSONparse to send and get data from localStorage
+
+3. Add UI from book http://ofps.oreilly.com/titles/9780596805784/index.html
+
+4. Add check boxes to allow deleting of specific items
+
+5. Add headjs
+
+6. 
+
+
+Long Term
+
+1. Add authentication with Google or OpenID or OAuth/ Twitter
+
+2. add name of user from drop down list 
+
+3. Save local storage data to CouchDB 
+
+4. Add "mark complete" functionality by drawing a line through the item (strikethrough)
+
+5. Add send email function
+6. 
